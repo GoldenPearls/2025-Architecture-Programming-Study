@@ -117,6 +117,8 @@
   - [11장 일부정리](https://mellona-log.gitbook.io/log/cs/undefined-1/11)
   - [11장 딥다이브](https://mellona-log.gitbook.io/log/cs/undefined-1/9)
 - [10주차 전반적인 정리](https://velog.io/@prettylee620/%EB%B3%91%EB%A0%AC%EC%84%B1%EA%B3%BC-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%84%B1-%EC%BB%B4%ED%93%A8%ED%84%B0%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%9C-%EB%B2%88%EC%97%90-%EB%A7%8E%EC%9D%80-%EC%9D%BC%EC%9D%84-%ED%95%98%EB%8A%94%EA%B0%80)
+-  [11주차 자료 : [한빛 미디어 지원] 주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 - 보안파트 정리해보기](https://velog.io/@prettylee620/%ED%95%9C%EB%B9%9B-%EB%AF%B8%EB%94%94%EC%96%B4-%EC%A7%80%EC%9B%90-%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%EB%B3%B4%EC%95%88%ED%8C%8C%ED%8A%B8-%EC%A0%95%EB%A6%AC%ED%95%B4%EB%B3%B4%EA%B8%B0)
+-  [12주차 자료](https://mellona-log.gitbook.io/log/cs/undefined-1/12-13)
 </details>
 
 <details>
@@ -132,6 +134,7 @@
   - [8주차 자료](https://github.com/roum02/2025-Architecture-Programming-Study/blob/main/roum/8%EC%A3%BC%EC%B0%A8.md)
   - [9주차 자료 - 10장, 11장](https://github.com/roum02/2025-Architecture-Programming-Study/blob/main/roum/9%EC%A3%BC%EC%B0%A8.md)
   - [10주차 자료](https://github.com/roum02/2025-Architecture-Programming-Study/blob/main/roum/10%EC%A3%BC%EC%B0%A8.md)
+  - [11주차 자료](https://github.com/roum02/2025-Architecture-Programming-Study/blob/main/roum/11%EC%A3%BC%EC%B0%A8.md)
   
 </details>
 
@@ -145,6 +148,7 @@
   - [6주차 자료 - 7장](https://github.com/im-gnar/study/blob/master/onebookcs/chapter7.md)
   - [9주차 자료 - 10장](https://github.com/im-gnar/study/blob/master/onebookcs/chapter10.md)
   - [10주차 자료](https://github.com/im-gnar/study/blob/master/onebookcs/chapter12.md)
+  - [11주차 자료](https://github.com/im-gnar/study/blob/master/onebookcs/chapter13.md)
 
 </details>
 
@@ -159,6 +163,7 @@
   - [6주차 자료](https://blcklamb.notion.site/7-feat-any-unix-epoch-GC-1d49e0c67e6c803f848efb41c9650ddb?pvs=4)
   - [8주차 자료](https://blcklamb.notion.site/9-1ed9e0c67e6c8037af77fd21807bac30?pvs=4)
   - [10주차 자료](https://blcklamb.notion.site/9-1f79e0c67e6c80718be3ecfaebdb0649?pvs=4)
+  - [11주차 자료](https://blcklamb.notion.site/10-2029e0c67e6c80d1b7d9e2ab81e4848e)
 
 </details>
 
@@ -194,6 +199,9 @@
     - [11장 내용정리](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_CH_11/)
     - [12장 내용정리](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_CH_12/)
     - [딥다이브](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_Deep_Dive/#9%EC%A3%BC%EC%B0%A8)
+  - 11주차 자료
+    - [내용정리](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_CH_13)
+    - [딥다이브](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_Deep_Dive/#10%EC%A3%BC%EC%B0%A8)
 
 </details>
 
@@ -209,6 +217,8 @@
   - 9주차 자료
     - [10장](https://running-seoin.notion.site/9-10-1ed1dbe6f87380e998fefd611ddbfa6f?pvs=4)
     - [11장](https://running-seoin.notion.site/11-1f41dbe6f87380818f0ec014c5327ec9?pvs=4)
+  - [11주차 자료](https://running-seoin.notion.site/13-2021dbe6f87380c78855f11989515c32?source=copy_link)
+
   
 </details>
 
@@ -224,6 +234,7 @@
   - [7주차 자료 - 8장 딥다이브](https://sang989.notion.site/8-319-344-26-1df8a4f192a280bc94b6c647cc806dca?pvs=4)
   - [9주차 자료 - 10~11장](https://sang989.notion.site/10-11-1f48a4f192a280c79276e58c84d43d7f?pvs=4)
   - [10주차 자료](https://sang989.notion.site/12-1fb8a4f192a280c4ab71d4788d699d60?pvs=4)
+  - [11주차 자료](https://sang989.notion.site/13-2028a4f192a28020ab8cd4f8cee943e9?pvs=4)
     
 </details>
 
@@ -243,10 +254,10 @@
 | **8주차** | 5/8 (목) | **9장 웹 브라우저 - 10장 애플리케이션과 프로그래밍 :** 345–390쪽 (46쪽) | 온라인 | [🔗 링크](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study/issues/13) |
 | **9주차** | 5/15 (목) | **10장 애플리케이션과 프로그래밍 - 11장 성능향상을 위한 알고리즘 기법 :** 391–440쪽 (50쪽)   | 온라인 | [🔗 링크](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study/issues/15) |
 | **10주차** |  5/22 (목)  | **11장 성능향상을 위한 알고리즘 기법 - 12장 병렬성과 비동기성 :** 441–486쪽 (46쪽)   | 온라인 | [🔗 링크](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study/issues/16) |
-| **11주차** |  5/29 (목) | **13장 컴퓨터 보안 :** 487–533쪽 (47쪽)   | 온라인 | [🔗 링크](#) |
-| **12주차** | 6/5 (목) | **14장 세상을 바꾸는 기계 지능 - 15장 훌륭한 프로그래머가 되기 위한 팁과 경험담 :** 535–613쪽 (79쪽)  | 온라인 | [🔗 링크](#) |
-| **발표회** | 6/14 (토) | 오프라인 발표회  | 16~18시 예정 | [🔗 링크](#) |
-| **스터디 뒷풀이** | 미정 | 벌금 소진 혹은 스터디 마무리  | 오프라인 | [🔗 링크](#) |
+| **11주차** |  5/29 (목) | **13장 컴퓨터 보안 :** 487–533쪽 (47쪽)   | 온라인 | [🔗 링크](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study/issues/17) |
+| **12주차** | 6/5 (목) | **14장 세상을 바꾸는 기계 지능 - 15장 훌륭한 프로그래머가 되기 위한 팁과 경험담 :** 535–613쪽 (79쪽)  | 온라인 | [🔗 링크](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study/issues/18) |
+| **발표회** | 6/14 (토) | 오프라인 발표회  | 16~18시 예정 |  |
+| **스터디 뒷풀이** | 미정 | 벌금 소진 혹은 스터디 마무리  | 오프라인 |  |
 
 
 
